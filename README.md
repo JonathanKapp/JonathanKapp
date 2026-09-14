@@ -22,10 +22,10 @@ Designed an 8-agent roster and built 5 of them on a shared prompt module, each w
 
 ### Stack
 
-**Languages:** Python, JavaScript, TypeScript
-**AI:** agentic systems, RAG, MCP, vector search (Milvus, Qdrant), local LLMs (Ollama), tool execution
-**Backend:** Node.js, PostgreSQL, Docker, REST APIs
-**Workflow:** Git, GitHub, code review, Vitest
+- **Languages:** Python, JavaScript, TypeScript
+- **AI:** agentic systems, RAG, MCP, vector search (Milvus, Qdrant), local LLMs (Ollama), tool execution
+- **Backend:** Node.js, PostgreSQL, Docker, REST APIs
+- **Workflow:** Git, GitHub, code review, Vitest
 
 ---
 
