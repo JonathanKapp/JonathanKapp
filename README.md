@@ -16,7 +16,7 @@ Built the agent loop prototype, safe file-editing tools, a hybrid file-edit matc
 **Agent platform for industrial cold storage** (private)
 Python, Milvus, PostgreSQL, Ollama, Docker, MCP.
 
-Designed an 8-agent roster and built 5 of them on a shared prompt module, each with its own tools and specialization. The flagship is a predictive-maintenance advisor that reasons over live equipment telemetry, backed by a RAG pipeline with hybrid retrieval, reranking, and a citation gate, so every recommendation traces back to a source document. Designed the multi-tenant Postgres schema behind it and ran the containerized stack.
+Designed an 8-agent roster and built 5 of them on a shared prompt module, each with its own tools and specialization. The flagship is a predictive-maintenance advisor that reasons over equipment telemetry, backed by a RAG pipeline with hybrid retrieval, reranking, and a citation gate, so every recommendation traces back to a source document. Designed the multi-tenant Postgres schema behind it and ran the containerized stack.
 
 ---
 
