@@ -9,7 +9,7 @@ Greenville, SC | jonathankapp.dev@gmail.com | Open to AI engineering roles
 ### What I've shipped
 
 **Emotion, an agentic CLI coding assistant** (`Team-Deepiri/deepiri-emotion`)
-[25 merged PRs](https://github.com/Team-Deepiri/deepiri-emotion/pulls?q=is%3Apr+author%3AJonathanKapp+is%3Amerged), 2nd of 16 contributors. JavaScript, Node.js, React Ink.
+[25 merged PRs](https://github.com/Team-Deepiri/deepiri-emotion/pulls?q=is%3Apr+author%3AJonathanKapp+is%3Amerged), second-highest contributor during my time on the project. JavaScript, Node.js, React Ink.
 
 Built the agent loop prototype, safe file-editing tools, a hybrid file-edit matcher with confidence reporting, a provider gateway with model routing, a human-in-the-loop confirmation gate, and a security hardening pass across workspace-touching modules.
 
